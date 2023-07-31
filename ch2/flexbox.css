@@ -1,0 +1,46 @@
+#flex{
+    height:20vh;
+    border-style:solid;
+    border-width: 2%;
+    border-color: black;
+}
+.box{
+    display: inline-block;
+    height: 10vh;
+    width: 5vw;
+    
+  
+
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: brown;
+}
+#box3{
+    background-color: yellowgreen;
+}
+#box4{
+    background-color: darkcyan;
+}
+#box5{
+    background-color: darkorchid;
+}
+body{
+    text-align: center;
+}
+#flex{
+    display: flex;
+    flex-direction: row;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    flex-direction: row;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-shrink:10;
+}

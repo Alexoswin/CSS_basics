@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    font-weight: lighter;
+    background-color: rgb(26, 17, 83);
+    color:pink;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    
+}
+#a103,h2,h3{
+    background-color:rgb(000, 255, 255);
+}
+#a100{
+    text-align: right;
+    font-family:arial;
+}
+#a101{ 
+    text-align: center;
+    font-family:cursive;
+}
+#a105{
+    font-weight: bold ;
+}
+/* units in css absolute */
+#a106{
+    font-size: 15px;
+    line-height:20px;
+    text-transform: lowercase,capitalize;
+}
+
+
+ 

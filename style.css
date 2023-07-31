@@ -1,0 +1,30 @@
+h3{
+    color: rgb(0, 0, 0);
+}
+button{
+    color:whitesmoke;
+}
+body{ 
+    background-color: #a8a9ff;
+}
+button{
+    background-color: black;
+}
+*{
+    color:#ffffff
+}
+#id1{
+    color:rgb(187, 255, 190);
+}
+
+.t100{
+    color:pink;
+}
+#a100{
+    background-color:greenyellow;
+    color:black;
+}
+
+#a123,#a124 {
+    background-color: #282bc7;
+}

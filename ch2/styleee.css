@@ -1,0 +1,43 @@
+#box1,#box2,#box3{
+    height: 10vh;
+    width:10vw;
+    margin-top:10vh;
+    margin-left: 10vw;
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 2%;
+    border-color: rgb(54, 133, 106);
+    
+}
+body{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+}
+#box1{
+    position:fixed;
+    right:10vw;
+}
+#box3{
+    position:sticky;
+}
+
+#index1,#index2,#index3{
+ height:10vh;
+ width:10vw;
+ background-color: blue;
+ display: inline-block;
+ 
+
+}
+#index3{
+position: relative;
+right:10dvw;
+
+}
+#index2{
+    z-index:-1;
+}
+#index1{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.B2NXNUBV-Ca3s2zh4bLY4QHaEK&pid=ImgDet&rs=1);
+    background-size: cover;
+}
